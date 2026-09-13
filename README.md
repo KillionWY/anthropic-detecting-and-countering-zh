@@ -1,4 +1,4 @@
-# GTG 报告 · 中文合集
+# Anthropic 威胁报告中文翻译版（原文件 Anthropic-Detecting-and-countering-091026.pdf）
 
 
 ---
